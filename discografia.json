@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "titolo": "The Bends",
+    "autore": "Radiohead",
+    "data di uscita": "1995",
+    "Casa discografica": "EMI"
+  },
+  {
+    "id": 2,
+    "titolo": "Beggars Banquet",
+    "autore": "The Rolling Stones",
+    "data di uscita": "1968",
+    "Casa discografica": "Decca Records"
+  },
+  {
+    "id": 3,
+    "titolo": "Radici",
+    "autore": "Francesco Guccini",
+    "data di uscita": "1972",
+    "Casa discografica": "Columbia Graphophone Company"
+  },
+  {
+    "id": 4,
+    "titolo": "The Dark Side of the Moon",
+    "autore": "Pink Floyd",
+    "data di uscita": "1973",
+    "Casa discografica": "Capitol Records"
+  },
+  {
+    "id": 5,
+    "titolo": "0",
+    "autore": "Low Roar",
+    "data di uscita": "2014",
+    "Casa discografica": "Tonequake Records"
+  },
+  {
+    "id": 6,
+    "titolo": "LORETAPE",
+    "autore": "Morgan no Rarity",
+    "data di uscita": "2021",
+    "Casa discografica": "Indipendente"
+  }
+]
